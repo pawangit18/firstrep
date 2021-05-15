@@ -1,0 +1,5 @@
+---------------------Service Logs-------------------
+30-05-2020 21:13:32- ERROR -Exception in GetAPIToken(). Error info :- Invalid URI: The format of the URI could not be determined..Inner message:-.Stack trace:-   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at TreeView.Class.APIWebRequest.GetAPIToken() in C:\MyData\Projects\TreeView\TreeView\Class\APIWebRequest.cs:line 267

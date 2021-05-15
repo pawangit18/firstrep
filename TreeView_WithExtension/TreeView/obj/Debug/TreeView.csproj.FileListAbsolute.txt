@@ -1,0 +1,36 @@
+C:\MyData\Projects\TreeView\TreeView\bin\Debug\Newtonsoft.Json.dll
+C:\MyData\Projects\TreeView\TreeView\bin\Debug\Newtonsoft.Json.xml
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.Form1_New.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.Form1.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.MDIParent1.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.NodeProperty.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.NodeValueEditor.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.VersionSelector.resources
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.csproj.CopyComplete
+C:\MyData\Projects\TreeView\TreeView\bin\Debug\FHIR Editor.exe.config
+C:\MyData\Projects\TreeView\TreeView\bin\Debug\FHIR Editor.exe
+C:\MyData\Projects\TreeView\TreeView\bin\Debug\FHIR Editor.pdb
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\FHIR Editor.exe
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\FHIR Editor.pdb
+C:\MyData\Projects\TreeView\TreeView\obj\Debug\TreeView.csprojAssemblyReference.cache
+C:\MyData\Projects\TreeView_WithExtension\TreeView\bin\Debug\FHIR Editor.exe.config
+C:\MyData\Projects\TreeView_WithExtension\TreeView\bin\Debug\FHIR Editor.exe
+C:\MyData\Projects\TreeView_WithExtension\TreeView\bin\Debug\FHIR Editor.pdb
+C:\MyData\Projects\TreeView_WithExtension\TreeView\bin\Debug\Newtonsoft.Json.dll
+C:\MyData\Projects\TreeView_WithExtension\TreeView\bin\Debug\Newtonsoft.Json.xml
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.Form1_New.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.Form1.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.MDIParent1.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.NodeProperty.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.NodeValueEditor.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.VersionSelector.resources
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.csproj.CopyComplete
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\FHIR Editor.exe
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\FHIR Editor.pdb
+C:\MyData\Projects\TreeView_WithExtension\TreeView\obj\Debug\TreeView.csprojAssemblyReference.cache
