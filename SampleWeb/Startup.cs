@@ -15,6 +15,7 @@ namespace SampleWeb
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //comments added for test
         }
 
         public IConfiguration Configuration { get; }
